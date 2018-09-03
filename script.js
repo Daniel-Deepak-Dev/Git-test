@@ -1,2 +1,2 @@
 document.write('ccc');
-//something
+//something is cool
