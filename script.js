@@ -1,1 +1,2 @@
-document.write('ccc')
+document.write('ccc');
+//something
